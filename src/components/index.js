@@ -8,7 +8,7 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
-import Datacamp from "./datacamp";
+import Datacamp from "./Datacamp";
 
 export {
   Navbar,

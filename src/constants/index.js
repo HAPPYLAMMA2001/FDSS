@@ -79,7 +79,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "I am a passionate and dedicated individual who is always ready to learn and grow. I am a team player and always ready to help others. I am a hardworking and responsible person who is always ready to take on new challenges. I am a dedicated and responsible person who is always ready to take on new challenges.",
+      "Passionate and dedicated, driven by a constant thirst for growth and learning. I thrive as a team player who offers assistance willingly, diligent and responsible in all tasks, always eager to embrace new challenges and opportunities with commitment and reliability.",
     name: "Haroon Wajid",
     title: "President",
     img: haroon,
@@ -104,7 +104,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Passionate innovator with a relentless drive for advancing data science, I thrive on challenges and believe in the power of curiosity to push boundaries and shape the future.",
-    name: "Muhammad Saad",
+    name: "Muhammad Shamil Umar",
     title: "Co-Head - Research and Development",
     img: shamil,
   },
@@ -163,7 +163,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Ha in my name is the only part of happiness i have",
-    name: "Muhammad Shamil Umar",
+    name: "Muhammad Hadi",
     title: "Head Finance – Team Events",
     img: hadi,
   },

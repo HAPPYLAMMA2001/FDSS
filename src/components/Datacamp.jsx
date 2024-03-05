@@ -18,7 +18,7 @@ const Datacamp = () => (
     </div>
 
     <div  className={layout.sectionImg}>
-      <img src={datacamplogo} alt="datacamplogo" className="w-[100%] h-[100%]" />
+      <img src={datacamplogo} alt="datacamplogo" className="w-[100%] h-[80%]" />
     </div>
 
   </section>

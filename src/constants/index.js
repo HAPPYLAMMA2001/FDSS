@@ -46,7 +46,7 @@ export const navLinks = [
   {
     id: "gallary",
     title: "Gallary",
-    href: "/FDSS/gallary/index.html", 
+    href: "gallary/index.html", 
   },
 ];
 

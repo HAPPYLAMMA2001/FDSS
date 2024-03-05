@@ -163,7 +163,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Ha in my name is the only part of happiness i have",
-    name: "Muhammad Hadi",
+    name: "Muhammad Shamil Umar",
     title: "Head Finance – Team Events",
     img: hadi,
   },

@@ -1,5 +1,4 @@
-import { instagram, linkedin, send, shield, star  } from "../assets";
-
+import { instagram, linkedin, send, shield, star } from "../assets";
 
 import haroon from "../fdssresources/haroon.jpg";
 import fatima from "../fdssresources/fatima_vp.jpg";
@@ -20,7 +19,6 @@ import sm_abd from "../fdssresources/sm_abd.jpg";
 import muneeb from "../fdssresources/muneed.jpg";
 import marukh from "../fdssresources/marukh.jpg";
 import bilal from "../fdssresources/bilal.jpg";
-
 
 export const navLinks = [
   {
@@ -46,10 +44,9 @@ export const navLinks = [
   {
     id: "gallary",
     title: "Gallary",
-    href: "gallary/index.html", 
+    href: "https://happylamma2001.github.io/gallary/",
   },
 ];
-
 
 export const features = [
   {
@@ -110,16 +107,14 @@ export const feedback = [
   },
   {
     id: "feedback-3",
-    content:
-      "Pray, eat, sleep, try and repeat.",
+    content: "Pray, eat, sleep, try and repeat.",
     name: "Eman Ijaz",
     title: "Co-Head - Research and Development",
     img: eman,
   },
   {
     id: "feedback-3",
-    content:
-      "The only way to do great work is to love what you do.",
+    content: "The only way to do great work is to love what you do.",
     name: "Moaz Murtaza",
     title: "Vice Head - Research and Development",
     img: moaz,
@@ -161,8 +156,7 @@ export const feedback = [
 
   {
     id: "feedback-3",
-    content:
-      "Ha in my name is the only part of happiness i have",
+    content: "Ha in my name is the only part of happiness i have",
     name: "Muhammad Hadi",
     title: "Head Finance – Team Events",
     img: hadi,
@@ -171,7 +165,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-    "Passionate data science student, merging design and analytics to shape the future of data-driven innovation.",
+      "Passionate data science student, merging design and analytics to shape the future of data-driven innovation.",
     name: "Afza Anjum",
     title: "Head Décor- Team Events",
     img: afza,
@@ -195,7 +189,6 @@ export const feedback = [
     img: taha,
   },
 
-
   {
     id: "feedback-3",
     content:
@@ -216,8 +209,7 @@ export const feedback = [
 
   {
     id: "feedback-3",
-    content:
-      "People say nothing is impossible, but i do nothing everyday.",
+    content: "People say nothing is impossible, but i do nothing everyday.",
     name: "Muneeb Qureshi",
     title: "Head creatives",
     img: muneeb,
@@ -227,8 +219,8 @@ export const feedback = [
     id: "feedback-3",
     content:
       "An extrovert at heart, I believe in the power of peace and the magic of passion.",
-      name: "Mahrukh Wahidi",
-      title: "Lead PR/Marketing",
+    name: "Mahrukh Wahidi",
+    title: "Lead PR/Marketing",
     img: marukh,
   },
 
@@ -318,7 +310,6 @@ export const footerLinks = [
         name: "Data Camp",
         link: "https://www.hoobank.com/our-partner/",
       },
-     
     ],
   },
 ];
@@ -329,12 +320,10 @@ export const socialMedia = [
     icon: instagram,
     link: "https://www.instagram.com/fdssisb/",
   },
-  
-  
+
   {
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/company/fdssisb/",
   },
 ];
-
